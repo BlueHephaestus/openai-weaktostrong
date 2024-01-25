@@ -11,3 +11,6 @@ I found the original graphs difficult to intuitively grasp, and felt they could 
 ### Scatterplot Proposal:
 ![Scatterplot](scatterplot_simple.png)
 
+Original Paper: https://cdn.openai.com/papers/weak-to-strong-generalization.pdf
+
+Thanks for the great read!
