@@ -42,7 +42,7 @@ XY[triu] = z
 for (i,j) in zip(triu[0], triu[1]):
     ax.text(j, i, f'{XY[i,j]}', ha='center', va='center', color='black', fontsize=12)
 
-cax = ax.matshow(XY, cmap='viridis', origin='lower')
+cax = ax.matshow(XY, cmap='plasma', origin='lower')
 ax.xaxis.set_ticks_position('bottom')
 plt.xticks(np.arange(7), xtx)
 plt.yticks(np.arange(7), ytx)
