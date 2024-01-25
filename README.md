@@ -5,9 +5,9 @@ I found the original graphs difficult to intuitively grasp, and felt they could 
 ### Original Graph:
 ![Original Graph](original_graph.png)
 
-###Colored Table Proposal:
+### Colored Table Proposal:
 ![Colored Table](table_colored.png)
 
-###Scatterplot Proposal:
+### Scatterplot Proposal:
 ![Scatterplot](scatterplot_simple.png)
 
